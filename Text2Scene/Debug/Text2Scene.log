@@ -1,0 +1,25 @@
+﻿Build started 2015-11-01 12:36:08 AM.
+     1>Project "C:\Users\herve\dev\git\Text2Scene\Text2Scene\Text2Scene.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Text2Scene.pdb" /Gd /TP /analyze- /errorReport:prompt FDParser.cpp Lexicon.cpp pugixml\pugixml.cpp RTFparser.cpp XmlReader.cpp
+         XmlReader.cpp
+         RTFparser.cpp
+         pugixml.cpp
+         Lexicon.cpp
+         FDParser.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Text2Scene.pdb" /Gd /TP /analyze- /errorReport:prompt Text2Scene.cpp
+         Text2Scene.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\herve\dev\git\Text2Scene\Debug\Text2Scene.lib" /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" /NOLOGO Debug\FDParser.obj
+         Debug\Lexicon.obj
+         Debug\pugixml.obj
+         Debug\RTFparser.obj
+         Debug\Text2Scene.obj
+         Debug\XmlReader.obj
+         Text2Scene.vcxproj -> C:\Users\herve\dev\git\Text2Scene\Debug\Text2Scene.lib
+     1>Done Building Project "C:\Users\herve\dev\git\Text2Scene\Text2Scene\Text2Scene.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.31

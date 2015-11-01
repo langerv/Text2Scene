@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tokens>
+  <FinalDraft>
+    <description>
+      <token name = "Heading" id = "1">
+        <form>TITRE DE SCÈNE</form>
+        <form>SCENE HEADING</form>
+        <form>PLAN</form>
+        <form>SHOT</form>
+      </token>
+      <token name = "Action" id = "2">
+        <form>ACTION</form>
+      </token>
+      <token name = "Character" id = "3">
+        <form>NOM DE PERSONNAGE</form>
+        <form>CHARACTER NAME</form>
+      </token>
+      <token name = "Parenthesis" id = "4">
+        <form>PARENTHÈSE</form>
+        <form>PARENTHETICAL</form>
+      </token>
+      <token name = "Dialog" id = "5">
+        <form>DIALOG</form>
+      </token>
+      <token name = "Transition" id = "6">
+        <form>TRANSITION</form>
+      </token>
+      <token name = "Animation" id = "7">
+        <form>ANIMATION</form>
+      </token>
+    </description>
+    
+    <numbering>
+      <token name = "Scene" id = "1">
+        <form>SC</form>
+        <form>SCENE</form>
+        <form>SCÈNE</form>
+        <form>SEQ</form>
+        <form>SEQUENCE</form>
+        <form>SÉQUENCE</form>
+      </token>
+    </numbering>
+
+    <location>
+      <token name = "Int" id = "1">
+        <form>INT </form>
+        <form>INT.</form>
+        <form>INT/</form>
+        <form>INTERIEUR</form>
+        <form>INTÉRIEUR</form>
+      </token>
+      <token name = "Ext" id = "2">
+        <form>EXT </form>
+        <form>EXT.</form>
+        <form>EXT/</form>
+        <form>EXTERIEUR</form>
+        <form>EXTÉRIEUR</form>
+      </token>
+      <token name = "IntExt" id = "3">
+        <form>I/E </form>
+        <form>I/E.</form>
+        <form>I/E/</form>
+      </token>
+      <token name = "ExtInt" id = "4">
+        <form>E/I </form>
+        <form>E/I.</form>
+        <form>E/I/</form>
+      </token>
+    </location>
+
+    <time>
+      <token name = "Day" id = "1">
+        <form>-JOUR</form>
+        <form>- JOUR</form>
+        <form>/JOUR</form>
+        <form>/ JOUR</form>
+        <form>JOUR.</form>
+        <form>JOUR </form>
+      </token>
+      <token name = "Morning" id = "2">
+        <form>-MATIN</form>
+        <form>- MATIN</form>
+        <form>/MATIN</form>
+        <form>/ MATIN</form>
+        <form>MATIN.</form>
+        <form>MATIN </form>
+      </token>
+      <token name = "Afternoon" id = "3">
+        <form>-APRÈS-MIDI</form>
+        <form>- APRÈS-MIDI</form>
+        <form>/APRÈS-MIDI</form>
+        <form>/ APRÈS-MIDI</form>
+        <form>APRÈS-MIDI.</form>
+        <form>APRÈS-MIDI </form>
+        <form>-APRES-MIDI</form>
+        <form>- APRES-MIDI</form>
+        <form>/APRES-MIDI</form>
+        <form>/ APRES-MIDI</form>
+        <form>APRES-MIDI.</form>
+        <form>APRES-MIDI </form>
+      </token>
+      <token name = "Evening" id = "4">
+        <form>-SOIR</form>
+        <form>- SOIR</form>
+        <form>/SOIR</form>
+        <form>/ SOIR</form>
+        <form>SOIR.</form>
+        <form>SOIR </form>
+      </token>
+      <token name = "Dusk" id = "5">
+        <form>-CREPUSCULE</form>
+        <form>- CREPUSCULE</form>
+        <form>/CREPUSCULE</form>
+        <form>/ CREPUSCULE</form>
+        <form>CREPUSCULE.</form>
+        <form>CREPUSCULE </form>
+        <form>-CRÉPUSCULE</form>
+        <form>- CRÉPUSCULE</form>
+        <form>/CRÉPUSCULE</form>
+        <form>/ CRÉPUSCULE</form>
+        <form>CRÉPUSCULE.</form>
+        <form>CRÉPUSCULE </form>
+      </token>
+      <token name = "Night" id = "6">
+        <form>-NUIT</form>
+        <form>- NUIT</form>
+        <form>/NUIT</form>
+        <form>/ NUIT</form>
+        <form>NUIT.</form>
+        <form>NUIT </form>
+      </token>
+      <token name = "Later" id = "7">
+        <form>-PLUS TARD</form>
+        <form>- PLUS TARD</form>
+        <form>/PLUS TARD</form>
+        <form>/ PLUS TARD</form>
+        <form>PLUS TARD.</form>
+        <form>PLUS TARD </form>
+      </token>
+      <token name = "MomentLater" id = "8">
+        <form>-MOMENT PLUS TARD</form>
+        <form>- MOMENT PLUS TARD</form>
+        <form>/MOMENT PLUS TARD</form>
+        <form>/ MOMENT PLUS TARD</form>
+        <form>MOMENT PLUS TARD.</form>
+        <form>MOMENT PLUS TARD </form>
+      </token>
+      <token name = "Space" id = "9">
+        <form>-ESPACE</form>
+        <form>- ESPACE</form>
+        <form>/ESPACE</form>
+        <form>/ ESPACE</form>
+        <form>ESPACE.</form>
+        <form>ESPACE </form>
+        <form>ESPACE </form>
+      </token>
+    </time>
+  </FinalDraft>
+</tokens>

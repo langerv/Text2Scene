@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Text2Scene", "Text2Scene\Text2Scene.vcxproj", "{827AADB6-D054-49DB-843D-54EF54E00D29}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestText2Scene", "TestText2Scene\TestText2Scene.vcxproj", "{16FB4DEE-86F8-406C-800D-0502DA15E517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827AADB6-D054-49DB-843D-54EF54E00D29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{827AADB6-D054-49DB-843D-54EF54E00D29}.Debug|Win32.Build.0 = Debug|Win32
+		{827AADB6-D054-49DB-843D-54EF54E00D29}.Release|Win32.ActiveCfg = Release|Win32
+		{827AADB6-D054-49DB-843D-54EF54E00D29}.Release|Win32.Build.0 = Release|Win32
+		{16FB4DEE-86F8-406C-800D-0502DA15E517}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16FB4DEE-86F8-406C-800D-0502DA15E517}.Debug|Win32.Build.0 = Debug|Win32
+		{16FB4DEE-86F8-406C-800D-0502DA15E517}.Release|Win32.ActiveCfg = Release|Win32
+		{16FB4DEE-86F8-406C-800D-0502DA15E517}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

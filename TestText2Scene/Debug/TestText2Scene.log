@@ -1,0 +1,15 @@
+﻿Build started 2015-11-01 12:38:46 AM.
+     1>Project "C:\Users\herve\dev\git\Text2Scene\TestText2Scene\TestText2Scene.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\Text2Scene /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt TestText2Scene.cpp
+         TestText2Scene.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\herve\dev\git\Text2Scene\Debug\TestText2Scene.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\herve\dev\git\Text2Scene\Debug\TestText2Scene.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\herve\dev\git\Text2Scene\Debug\TestText2Scene.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\TestText2Scene.obj
+         C:\Users\herve\dev\git\Text2Scene\Debug\Text2Scene.lib
+         TestText2Scene.vcxproj -> C:\Users\herve\dev\git\Text2Scene\Debug\TestText2Scene.exe
+     1>Done Building Project "C:\Users\herve\dev\git\Text2Scene\TestText2Scene\TestText2Scene.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.94
